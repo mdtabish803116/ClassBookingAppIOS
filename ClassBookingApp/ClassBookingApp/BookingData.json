@@ -1,0 +1,145 @@
+{
+"data" : [{
+  "id": 46,
+  "date": "11 Aug 2023",
+  "time": "12:00 PM - 1:00 PM",
+  "available": 4,
+  "booked": false,
+  "added": false
+}, {
+  "id": 85,
+  "date": "12 Aug 2023",
+  "time": "1:00 PM - 2:00 PM",
+  "available": 2,
+  "booked": false,
+  "added": false
+}, {
+  "id": 57,
+  "date": "13 Aug 2023",
+  "time": "2:00 PM - 3:00 PM",
+  "available": 3,
+  "booked": false,
+  "added": false
+}, {
+  "id": 71,
+  "date": "14 Aug 2023",
+  "time": "11:00 AM - 1:00 PM",
+  "available": 4,
+  "booked": false,
+  "added": false
+}, {
+  "id": 14,
+  "date": "15 Aug 2023",
+  "time": "8:00 AM - 10:00 AM",
+  "available": 1,
+  "booked": false,
+  "added": false
+}, {
+  "id": 41,
+  "date": "16 Aug 2023",
+  "time": "1:00 PM - 2:00 PM",
+  "available": 4,
+  "booked": false,
+  "added": false
+}, {
+  "id": 84,
+  "date": "17 Aug 2023",
+  "time": "9:00 AM - 10:00 AM",
+  "available": 3,
+  "booked": false,
+  "added": false
+}, {
+  "id": 11,
+  "date": "18 Aug 2023",
+  "time": "7:00 PM - 8:00 PM",
+  "available": 1,
+  "booked": false,
+  "added": false
+}, {
+  "id": 82,
+  "date": "19 Aug 2023",
+  "time": "6:00 PM - 7:00 PM",
+  "available": 3,
+  "booked": false,
+  "added": false
+}, {
+  "id": 73,
+  "date": "20 Aug 2023",
+  "time": "1:00 PM - 2:00 PM",
+  "available": 3,
+  "booked": false,
+  "added": false
+}, {
+  "id": 42,
+  "date": "21 Aug 2023",
+  "time": "3:00 PM - 4:00 PM",
+  "available": 3,
+  "booked": false,
+  "added": false
+}, {
+  "id": 10,
+  "date": "22 Aug 2023",
+  "time": "1:00 PM - 2:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}, {
+  "id": 87,
+  "date": "23 Aug 2023",
+  "time": "10:00 AM - 12:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}, {
+  "id": 75,
+  "date": "24 Aug 2023",
+  "time": "4:00 PM - 5:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}, {
+  "id": 74,
+  "date": "25 Aug 2023",
+  "time": "5:00 PM - 6:00 PM",
+  "available": 2,
+  "booked": false,
+  "added": false
+}, {
+  "id": 41,
+  "date": "26 Aug 2023",
+  "time": "12:10 PM - 2:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}, {
+  "id": 93,
+  "date": "27 Aug 2023",
+  "time": "10:00 AM - 1:00 PM",
+  "available": 4,
+  "booked": false,
+  "added": false
+}, {
+  "id": 89,
+  "date": "28 Aug 2023",
+  "time":"11:00 AM - 12:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}, {
+  "id": 89,
+  "date": "29 Aug 2023",
+  "time": "2:00 PM - 2:30 PM",
+  "available": 4,
+  "booked": false,
+  "added": false
+}, {
+  "id": 26,
+  "date": "30 Aug 2023",
+  "time": "3:00 PM - 4:00 PM",
+  "available": 5,
+  "booked": false,
+  "added": false
+}]
+
+}
+
